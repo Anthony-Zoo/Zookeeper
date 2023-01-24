@@ -1,0 +1,12 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {    \n    // write your code here\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4593#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 24 Jan 2023 10:43:55 UTC"
+record: -1
